@@ -1,0 +1,18 @@
+{
+    "name": "Quicksheet.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0bf1c90e1e960ee4080f25861e454686"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

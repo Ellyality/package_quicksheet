@@ -1,0 +1,20 @@
+{
+    "name": "Quicksheet.Example.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0bf1c90e1e960ee4080f25861e454686",
+        "GUID:021555c4770ae93479f0ae1b757d6ef3",
+        "GUID:5bace6f6bbcb82044b296a4746057e7d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
